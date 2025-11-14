@@ -2,7 +2,7 @@ pipeline
 {
 agent {label 'slave'}
 tools {
-  maven 'mvn3.9.9'
+  maven 'mvn3.8.9'
 }
 
 triggers {
